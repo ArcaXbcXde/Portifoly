@@ -1,0 +1,2636 @@
+fileFormatVersion: 2
+guid: 58f2b3704bfcfab4d9068176d1e29b84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3591572216670822957
+    second: Dungeoneers Clean Brick Top
+  - first:
+      213: 4681288291885101525
+    second: Dungeoneers Old Brick Top
+  - first:
+      213: -8945074000375155664
+    second: Dungeoneers Old Brick Bridge
+  - first:
+      213: -2427260128923531675
+    second: Dungeoneers Light Stone Top
+  - first:
+      213: -3066899877593386454
+    second: Dungeoneers Dark Stone Top
+  - first:
+      213: -5535556580008651309
+    second: Dungeoneers Old Stone Top
+  - first:
+      213: -2154581067678551380
+    second: Dungeoneers Clean Brick
+  - first:
+      213: 3864807715078284740
+    second: Dungeoneers Old Brick
+  - first:
+      213: -1680876502278021426
+    second: Dungeoneers Clean Brick Bridge
+  - first:
+      213: -9018872678736114709
+    second: Dungeoneers Light Stone
+  - first:
+      213: -1066723042427284823
+    second: Dungeoneers Dark Stone
+  - first:
+      213: -2763731870194785981
+    second: Dungeoneers Old Stone
+  - first:
+      213: -4308012368662300158
+    second: Dungeoneers Planks Bridge
+  - first:
+      213: -7820294001176823697
+    second: Dungeoneers Wood Down
+  - first:
+      213: -5269549778693445329
+    second: Dungeoneers Dirt Top
+  - first:
+      213: -6228828172817103297
+    second: Dungeoneers Grass
+  - first:
+      213: 6842109000818645366
+    second: Dungeoneers Planks
+  - first:
+      213: -7034722436273648725
+    second: Dungeoneers Wood Up
+  - first:
+      213: -739269371854207320
+    second: Dungeoneers Dirt
+  - first:
+      213: 8420347720587592284
+    second: Dungeoneers Color Scheme
+  - first:
+      213: 962969390842260240
+    second: Dungeoneers Ice Top
+  - first:
+      213: 1472401851441070087
+    second: Dungeoneers Hay
+  - first:
+      213: 287340868727448734
+    second: Dungeoneers Stone Brick Window 3
+  - first:
+      213: -8668472652465320837
+    second: Dungeoneers Ice
+  - first:
+      213: -3034315483994258937
+    second: Dungeoneers Column Top
+  - first:
+      213: -284574463747654286
+    second: Dungeoneers Moss Top
+  - first:
+      213: 1055899343139894891
+    second: Dungeoneers Moss Small
+  - first:
+      213: 3889974274571133774
+    second: Dungeoneers Column Mid
+  - first:
+      213: -1968230008280032332
+    second: Dungeoneers Moss
+  - first:
+      213: -6017847217147120695
+    second: Dungeoneers Blood Split
+  - first:
+      213: 8494700203282890932
+    second: Dungeoneers Column Base
+  - first:
+      213: 9117922364973926163
+    second: Dungeoneers Stone Brick Window 4
+  - first:
+      213: -7437123246593175457
+    second: Dungeoneers Stone Brick Window 5
+  - first:
+      213: -4620570575469326415
+    second: Dungeoneers Stone Brick Window 6
+  - first:
+      213: 6533854516801882671
+    second: Dungeoneers Tree Leaves 2
+  - first:
+      213: 2946037936602284044
+    second: Dungeoneers Sky_3S
+  - first:
+      213: 2421554246453517313
+    second: Dungeoneers Sky_2S
+  - first:
+      213: -7920262107651640076
+    second: Dungeoneers Sky_1S
+  - first:
+      213: -4173979115976296255
+    second: Dungeoneers Moon_UL
+  - first:
+      213: 9216452604156787087
+    second: Dungeoneers Moon_UR
+  - first:
+      213: -2460679221454203390
+    second: Dungeoneers Moon_DL
+  - first:
+      213: 875492425534591665
+    second: Dungeoneers Moon_DR
+  - first:
+      213: -4121201839571782587
+    second: Dungeoneers Cloud_Big1
+  - first:
+      213: 8414183654946984128
+    second: Dungeoneers Cloud_Big2
+  - first:
+      213: 1707782325019106239
+    second: Dungeoneers Cloud_Big3
+  - first:
+      213: 1247734608386953309
+    second: Dungeoneers Cloud_Big4
+  - first:
+      213: 8428835830119813088
+    second: Dungeoneers Cloud_Big5
+  - first:
+      213: 8181786293564510386
+    second: Dungeoneers Cloud_Big6
+  - first:
+      213: 5063046784465362559
+    second: Dungeoneers Cloud_Big7
+  - first:
+      213: 7797983131596593833
+    second: Dungeoneers Cloud_Big8
+  - first:
+      213: -3517788434023164831
+    second: Dungeoneers Cloud_Big9
+  - first:
+      213: -3220297745543718762
+    second: Dungeoneers Sky
+  - first:
+      213: -4024029153151664501
+    second: Dungeoneers Cloud_Med1
+  - first:
+      213: 6118551844007093203
+    second: Dungeoneers Cloud_Med2
+  - first:
+      213: 6627747398186379325
+    second: Dungeoneers Cloud_Med3
+  - first:
+      213: 4117226918403561540
+    second: Dungeoneers Cloud_Small1
+  - first:
+      213: -411109056668055009
+    second: Dungeoneers Cloud_Small2
+  - first:
+      213: 5089280911696701406
+    second: Dungeoneers Ground_57
+  - first:
+      213: 197155662967804535
+    second: Dungeoneers Ground_58
+  - first:
+      213: 6407967483185023886
+    second: Dungeoneers Ground_59
+  - first:
+      213: -541478365973822591
+    second: Dungeoneers Ground_60
+  - first:
+      213: 93706544290121938
+    second: Dungeoneers Ground_61
+  - first:
+      213: 7117044692612144570
+    second: Dungeoneers Ground_62
+  - first:
+      213: -2706499191877832683
+    second: Dungeoneers Ground_63
+  - first:
+      213: 722745072999824109
+    second: Dungeoneers Ground_64
+  - first:
+      213: -407909541044544460
+    second: Dungeoneers Ground_65
+  - first:
+      213: 9090259749958086385
+    second: Dungeoneers Ground_66
+  - first:
+      213: 5547271780487485458
+    second: Dungeoneers Ground_67
+  - first:
+      213: 6132483514210543898
+    second: Dungeoneers Ground_68
+  - first:
+      213: -5839924134293079453
+    second: Dungeoneers Ground_69
+  - first:
+      213: 27774254460389760
+    second: Dungeoneers Ground_70
+  - first:
+      213: 8532296130810322134
+    second: Dungeoneers Ground_71
+  - first:
+      213: -9152253082714789639
+    second: Dungeoneers Ground_72
+  - first:
+      213: -1738806281743537515
+    second: Dungeoneers Ground_73
+  - first:
+      213: 975108831477108824
+    second: Dungeoneers Ground_74
+  - first:
+      213: 2848596867218605592
+    second: Dungeoneers Ground_75
+  - first:
+      213: -5038162695859505610
+    second: Dungeoneers Ground_76
+  - first:
+      213: 6457732204189226472
+    second: Dungeoneers Ground_77
+  - first:
+      213: 8141006940859957344
+    second: Dungeoneers Ground_78
+  - first:
+      213: -7102242212975310088
+    second: Dungeoneers Ground_79
+  - first:
+      213: 8637089144040175127
+    second: Dungeoneers Ground_80
+  - first:
+      213: 7578031653693743008
+    second: Dungeoneers Ground_81
+  - first:
+      213: 263809268401242050
+    second: Dungeoneers Ground_82
+  - first:
+      213: -6203462250738776635
+    second: Dungeoneers Ground_83
+  - first:
+      213: -6612863937910699798
+    second: Dungeoneers Ground_84
+  - first:
+      213: 3234073117712567530
+    second: Dungeoneers Ground_85
+  - first:
+      213: -7140994910639473137
+    second: Dungeoneers Ground_86
+  - first:
+      213: -78407080767130656
+    second: Dungeoneers Ground_87
+  - first:
+      213: 6350724526821758606
+    second: Dungeoneers Ground_88
+  - first:
+      213: -2178285479716331660
+    second: Dungeoneers Ground_89
+  - first:
+      213: -1093591974195154565
+    second: Dungeoneers Ground_90
+  - first:
+      213: -7844564248071048470
+    second: Dungeoneers Ground_91
+  - first:
+      213: -3451957943317050248
+    second: Dungeoneers Ground_92
+  - first:
+      213: -1567330107592250224
+    second: Dungeoneers Ground_93
+  - first:
+      213: 2156987814531576108
+    second: Dungeoneers Ground_94
+  - first:
+      213: -3073334849086854654
+    second: Dungeoneers Ground_95
+  - first:
+      213: -2603455713323397199
+    second: Dungeoneers Ground_96
+  - first:
+      213: 6194669339562240763
+    second: Dungeoneers Ground_97
+  - first:
+      213: 6773814207628613536
+    second: Dungeoneers Ground_98
+  - first:
+      213: -7328902876539732984
+    second: Dungeoneers Ground_99
+  - first:
+      213: -2805459033087242161
+    second: Dungeoneers Ground_100
+  - first:
+      213: 1708624277211162931
+    second: Dungeoneers Ground_101
+  - first:
+      213: 7710006522182878619
+    second: Dungeoneers Ground_102
+  - first:
+      213: -2684810240079507928
+    second: Dungeoneers Ground_103
+  - first:
+      213: -3723365176396478327
+    second: Dungeoneers Ground_104
+  - first:
+      213: -2046045148911810690
+    second: Dungeoneers Ground_105
+  - first:
+      213: -662494476475155655
+    second: Dungeoneers Ground_106
+  - first:
+      213: -1910025304412026571
+    second: Dungeoneers Ground_107
+  - first:
+      213: 1943319185693045700
+    second: Dungeoneers Ground_108
+  - first:
+      213: 148197424827192322
+    second: Dungeoneers Ground_109
+  - first:
+      213: -1903239255683120427
+    second: Dungeoneers Ground_110
+  - first:
+      213: 1112444078980880236
+    second: Dungeoneers Ground_111
+  - first:
+      213: -1483650128727467731
+    second: Dungeoneers Ground_112
+  - first:
+      213: 106850031691656034
+    second: Dungeoneers Ground_113
+  - first:
+      213: 7568813787379735872
+    second: Dungeoneers Ground_114
+  - first:
+      213: -8446335159242069185
+    second: Dungeoneers Ground_115
+  - first:
+      213: 8201582816865369054
+    second: Dungeoneers Ground_116
+  - first:
+      213: 4522687865976054755
+    second: Dungeoneers Ground_117
+  - first:
+      213: -1365344096127418091
+    second: Dungeoneers Ground_118
+  - first:
+      213: -3893688132225956426
+    second: Dungeoneers Ground_119
+  - first:
+      213: -9183498002463515386
+    second: Dungeoneers Ground_120
+  - first:
+      213: -1546202326421357033
+    second: Dungeoneers Ground_121
+  - first:
+      213: 3537871038159251131
+    second: Dungeoneers Ground_122
+  - first:
+      213: 1851154292789670272
+    second: Dungeoneers Ground_123
+  - first:
+      213: -4278217471095877413
+    second: Dungeoneers Ground_124
+  - first:
+      213: -2451310853711214052
+    second: Dungeoneers Ground_125
+  - first:
+      213: -8225933514059518071
+    second: Dungeoneers Ground_126
+  - first:
+      213: -8461870052643138134
+    second: Dungeoneers Ground_127
+  - first:
+      213: 2535988439116437250
+    second: Dungeoneers Ground_128
+  - first:
+      213: 5569005536618090342
+    second: Dungeoneers Ground_129
+  - first:
+      213: 8870482687273967320
+    second: Dungeoneers Ground_130
+  - first:
+      213: -6031746172529499163
+    second: Dungeoneers Ground_131
+  - first:
+      213: -5453074726172547831
+    second: Dungeoneers Ground_132
+  - first:
+      213: 5476912891240329192
+    second: Dungeoneers Ground_133
+  - first:
+      213: -1563318991017340492
+    second: Dungeoneers Ground_134
+  - first:
+      213: 6241772374277168436
+    second: Dungeoneers Ground_135
+  - first:
+      213: -3805854149290840644
+    second: Dungeoneers Ground_136
+  - first:
+      213: 2996212463322868546
+    second: Dungeoneers Ground_137
+  - first:
+      213: -95719857682115437
+    second: Dungeoneers Ground_138
+  - first:
+      213: -706430797426708918
+    second: Dungeoneers Ground_139
+  - first:
+      213: -402423725146892216
+    second: Dungeoneers Ground_140
+  - first:
+      213: 5408054477012933832
+    second: Dungeoneers Ground_141
+  - first:
+      213: -2230417778492932584
+    second: Dungeoneers Ground_142
+  - first:
+      213: 1045390031764962056
+    second: Dungeoneers Ground_143
+  - first:
+      213: 3892562040991598491
+    second: Dungeoneers Ground_144
+  - first:
+      213: 2280838086948990487
+    second: Dungeoneers Ground_145
+  - first:
+      213: -2097132908602610738
+    second: Dungeoneers Ground_146
+  - first:
+      213: -3413603034303461061
+    second: Dungeoneers Ground_147
+  - first:
+      213: 8713612806545063719
+    second: Dungeoneers Ground_148
+  - first:
+      213: 4459831421433648605
+    second: Dungeoneers Ground_149
+  - first:
+      213: 1844677104842717635
+    second: Dungeoneers Ground_150
+  - first:
+      213: -7582711974541441661
+    second: Dungeoneers Ground_151
+  - first:
+      213: -6597510162198904593
+    second: Dungeoneers Ground_152
+  - first:
+      213: -6401597562394526943
+    second: Dungeoneers Ground_153
+  - first:
+      213: 761842518544409689
+    second: Dungeoneers Ground_154
+  - first:
+      213: 3488944334898005952
+    second: Dungeoneers Ground_155
+  - first:
+      213: -4118527938301730954
+    second: Dungeoneers Ground_156
+  - first:
+      213: -4541757251229634063
+    second: Dungeoneers Ground_157
+  - first:
+      213: 6364914095438477361
+    second: Dungeoneers Ground_158
+  - first:
+      213: 2771957578128407193
+    second: Dungeoneers Ground_159
+  - first:
+      213: 4058572773440576865
+    second: Dungeoneers Ground_160
+  - first:
+      213: -3996448835354459706
+    second: Dungeoneers Ground_161
+  - first:
+      213: -3814448855078597027
+    second: Dungeoneers Ground_162
+  - first:
+      213: 20831906732436532
+    second: Dungeoneers Ground_163
+  - first:
+      213: -7945542844201005155
+    second: Dungeoneers Ground_164
+  - first:
+      213: 843810141021115234
+    second: Dungeoneers Ground_165
+  - first:
+      213: 4964178166944921147
+    second: Dungeoneers Ground_166
+  - first:
+      213: -7302253757642174179
+    second: Dungeoneers Ground_167
+  - first:
+      213: -3443253848410696304
+    second: Dungeoneers Ground_168
+  - first:
+      213: -4575815489953902439
+    second: Dungeoneers Ground_169
+  - first:
+      213: 1260951278785598253
+    second: Dungeoneers Ground_170
+  - first:
+      213: -1672143015705703793
+    second: Dungeoneers Ground_171
+  - first:
+      213: -3639938357835968508
+    second: Dungeoneers Ground_172
+  - first:
+      213: -2582753848341848418
+    second: Dungeoneers Ground_173
+  - first:
+      213: 5148927420037967879
+    second: Dungeoneers Ground_174
+  - first:
+      213: 7722778606176825500
+    second: Dungeoneers Ground_175
+  - first:
+      213: 5279225189656197432
+    second: Dungeoneers Ground_176
+  - first:
+      213: -6159973519066550228
+    second: Dungeoneers Ground_177
+  - first:
+      213: -7310141805198748686
+    second: Dungeoneers Ground_178
+  - first:
+      213: 5731359853512919057
+    second: Dungeoneers Ground_179
+  - first:
+      213: 6659823241277894765
+    second: Dungeoneers Ground_180
+  - first:
+      213: -3094867533082055601
+    second: Dungeoneers Ground_181
+  - first:
+      213: -851211026619176576
+    second: Dungeoneers Ground_182
+  - first:
+      213: -4691376434032341901
+    second: Dungeoneers Ground_183
+  - first:
+      213: -3076703541425219673
+    second: Dungeoneers Ground_184
+  - first:
+      213: 2077085181852682633
+    second: Dungeoneers Ground_185
+  - first:
+      213: 8843221872831249172
+    second: Dungeoneers Ground_186
+  - first:
+      213: -4979395888677217503
+    second: Dungeoneers Ground_187
+  - first:
+      213: -2576531283968088959
+    second: Dungeoneers Ground_188
+  - first:
+      213: -6486813271923108074
+    second: Dungeoneers Ground_189
+  - first:
+      213: -8765139651857194470
+    second: Dungeoneers Ground_190
+  - first:
+      213: 2559343147542701327
+    second: Dungeoneers Ground_191
+  - first:
+      213: -3907820233619367850
+    second: Dungeoneers Ground_192
+  - first:
+      213: -4525691091023999608
+    second: Dungeoneers Ground_193
+  - first:
+      213: -7637837508959863663
+    second: Dungeoneers Ground_194
+  - first:
+      213: 5175074628801250459
+    second: Dungeoneers Ground_195
+  - first:
+      213: 5477957861457731394
+    second: Dungeoneers Ground_196
+  - first:
+      213: 6143635659432985489
+    second: Dungeoneers Ground_197
+  - first:
+      213: 3782747585263064399
+    second: Dungeoneers Ground_198
+  - first:
+      213: -3178469218924802274
+    second: Dungeoneers Ground_199
+  - first:
+      213: -2928335477804257952
+    second: Dungeoneers Ground_200
+  - first:
+      213: -8725245906009361897
+    second: Dungeoneers Ground_201
+  - first:
+      213: -4523498277427822659
+    second: Dungeoneers Ground_202
+  - first:
+      213: 123515062318425980
+    second: Dungeoneers Ground_203
+  - first:
+      213: -911011706761809945
+    second: Dungeoneers Ground_204
+  - first:
+      213: 5894132063615410625
+    second: Dungeoneers Ground_205
+  - first:
+      213: -4585597902727899031
+    second: Dungeoneers Ground_206
+  - first:
+      213: 4297704304905749001
+    second: Dungeoneers Ground_207
+  - first:
+      213: -8666960745873255376
+    second: Dungeoneers Ground_208
+  - first:
+      213: 7813066218573928775
+    second: Dungeoneers Ground_209
+  - first:
+      213: -8035454969150403725
+    second: Dungeoneers Ground_210
+  - first:
+      213: -8128720311252152226
+    second: Dungeoneers Ground_211
+  - first:
+      213: -6814437601702655191
+    second: Dungeoneers Ground_212
+  - first:
+      213: 5184067602394321850
+    second: Dungeoneers Ground_213
+  - first:
+      213: 2851083503040979704
+    second: Dungeoneers Ground_214
+  - first:
+      213: 3960098804901538788
+    second: Dungeoneers Ground_215
+  - first:
+      213: 5427745758702624230
+    second: Dungeoneers Ground_216
+  - first:
+      213: -5520707393645722583
+    second: Dungeoneers Ground_217
+  - first:
+      213: 7122570069411669761
+    second: Dungeoneers Ground_218
+  - first:
+      213: -4875509033584444268
+    second: Dungeoneers Ground_219
+  - first:
+      213: 3936015074732068757
+    second: Dungeoneers Ground_220
+  - first:
+      213: -46491987660375701
+    second: Dungeoneers Ground_221
+  - first:
+      213: 5555009242229369813
+    second: Dungeoneers Ground_222
+  - first:
+      213: -2217624739421217276
+    second: Dungeoneers Ground_223
+  - first:
+      213: 8591078796637932817
+    second: Dungeoneers Ground_224
+  - first:
+      213: 8403662963619207818
+    second: Dungeoneers Ground_225
+  - first:
+      213: -1361430040519614930
+    second: Dungeoneers Ground_226
+  - first:
+      213: -7820705514665398338
+    second: Dungeoneers Ground_227
+  - first:
+      213: -6873336823466527411
+    second: Dungeoneers Ground_228
+  - first:
+      213: -7967131396081802923
+    second: Dungeoneers Ground_229
+  - first:
+      213: -8133475353544055404
+    second: Dungeoneers Ground_230
+  - first:
+      213: 5447874580218673651
+    second: Dungeoneers Ground_231
+  - first:
+      213: 8067387698128456097
+    second: Dungeoneers Ground_232
+  - first:
+      213: -6796401382402163787
+    second: Dungeoneers Ground_233
+  - first:
+      213: 2849892505963633841
+    second: Dungeoneers Ground_234
+  - first:
+      213: -9165663890569311970
+    second: Dungeoneers Ground_235
+  - first:
+      213: -8883361284827468762
+    second: Dungeoneers Ground_236
+  - first:
+      213: -8392607895468449382
+    second: Dungeoneers Ground_237
+  - first:
+      213: -2528275448861975900
+    second: Dungeoneers Ground_238
+  - first:
+      213: -8273923417057406790
+    second: Dungeoneers Ground_239
+  - first:
+      213: -6742503830337662377
+    second: Dungeoneers Ground_240
+  - first:
+      213: 4733914775069700573
+    second: Dungeoneers Ground_241
+  - first:
+      213: 6632132779030360704
+    second: Dungeoneers Ground_242
+  - first:
+      213: -7533846403513976904
+    second: Dungeoneers Ground_243
+  - first:
+      213: 3314302456976695568
+    second: Dungeoneers Ground_244
+  - first:
+      213: -3574095429069506909
+    second: Dungeoneers Ground_245
+  - first:
+      213: 642780764458298177
+    second: Dungeoneers Ground_246
+  - first:
+      213: -1971657983619047686
+    second: Dungeoneers Ground_247
+  - first:
+      213: 3457757788203536363
+    second: Dungeoneers Ground_248
+  - first:
+      213: -1854711564913863992
+    second: Dungeoneers Ground_249
+  - first:
+      213: 7559858083513958012
+    second: Dungeoneers Ground_250
+  - first:
+      213: -5148841429810522187
+    second: Dungeoneers Ground_251
+  - first:
+      213: -4862619499080795729
+    second: Dungeoneers Ground_252
+  - first:
+      213: 442047722656977112
+    second: Dungeoneers Ground_253
+  - first:
+      213: -582879995597445344
+    second: Dungeoneers Ground_254
+  - first:
+      213: -3440335087790640496
+    second: Dungeoneers Ground_255
+  - first:
+      213: -4950983897885906527
+    second: Dungeoneers Ground_256
+  - first:
+      213: -8373892197468602754
+    second: Dungeoneers Ground_257
+  - first:
+      213: -8725426598609290108
+    second: Dungeoneers Ground_258
+  - first:
+      213: 5835555753977458642
+    second: Dungeoneers Ground_259
+  - first:
+      213: 5291587708429513513
+    second: Dungeoneers Ground_260
+  - first:
+      213: 5384678458833636620
+    second: Dungeoneers Ground_261
+  - first:
+      213: -3123422867567772370
+    second: Dungeoneers Ground_262
+  - first:
+      213: -1899186478137542934
+    second: Dungeoneers Ground_263
+  - first:
+      213: -6595712552796739722
+    second: Dungeoneers Ground_264
+  - first:
+      213: -4977096431396797989
+    second: Dungeoneers Ground_265
+  - first:
+      213: 1764937153029238177
+    second: Dungeoneers Ground_266
+  - first:
+      213: -445863714650375477
+    second: Dungeoneers Ground_267
+  - first:
+      213: 3629811653427264725
+    second: Dungeoneers Ground_268
+  - first:
+      213: 5933334808878936995
+    second: Dungeoneers Ground_269
+  - first:
+      213: 751039728678169764
+    second: Dungeoneers Ground_270
+  - first:
+      213: 7820279934040606781
+    second: Dungeoneers Ground_271
+  - first:
+      213: -7837929671642311774
+    second: Dungeoneers Ground_272
+  - first:
+      213: -4674022392744252273
+    second: Dungeoneers Ground_273
+  - first:
+      213: 3730163477928694540
+    second: Dungeoneers Ground_274
+  - first:
+      213: 647966521804551826
+    second: Dungeoneers Ground_275
+  - first:
+      213: 8377791078239739102
+    second: Dungeoneers Ground_276
+  - first:
+      213: 2292710120250336451
+    second: Dungeoneers Ground_277
+  - first:
+      213: -661957318179678848
+    second: Dungeoneers Ground_278
+  - first:
+      213: 2814048107519996
+    second: Dungeoneers Ground_279
+  - first:
+      213: -507836296907541332
+    second: Dungeoneers Ground_280
+  - first:
+      213: 3099972660699306345
+    second: Dungeoneers Ground_281
+  - first:
+      213: 7846405213339754100
+    second: Dungeoneers Ground_282
+  - first:
+      213: 5112155095457757539
+    second: Dungeoneers Ground_283
+  - first:
+      213: -1989344625164068844
+    second: Dungeoneers Ground_284
+  - first:
+      213: -2854896513943763477
+    second: Dungeoneers Ground_285
+  - first:
+      213: -419355900100345115
+    second: Dungeoneers Ground_286
+  - first:
+      213: 7727133683723869553
+    second: Dungeoneers Ground_287
+  - first:
+      213: -7812141046613283736
+    second: Dungeoneers Ground_288
+  - first:
+      213: 6526275026554646205
+    second: Dungeoneers Ground_289
+  - first:
+      213: 4180263524972149529
+    second: Dungeoneers Ground_290
+  - first:
+      213: 3088575213139087352
+    second: Dungeoneers Ground_291
+  - first:
+      213: -1209613914892448888
+    second: Dungeoneers Ground_292
+  - first:
+      213: 6385038086129784057
+    second: Dungeoneers Ground_293
+  - first:
+      213: -8963465691472798221
+    second: Dungeoneers Ground_294
+  - first:
+      213: -7147573230885486981
+    second: Dungeoneers Ground_295
+  - first:
+      213: 427783492282390392
+    second: Dungeoneers Ground_296
+  - first:
+      213: -6145726749228140591
+    second: Dungeoneers Ground_297
+  - first:
+      213: 797719314835693605
+    second: Dungeoneers Ground_298
+  - first:
+      213: -857538622759498827
+    second: Dungeoneers Ground_299
+  - first:
+      213: -1222045667348445732
+    second: Dungeoneers Ground_300
+  - first:
+      213: -6079734116833160934
+    second: Dungeoneers Ground_301
+  - first:
+      213: 5153679826866347901
+    second: Dungeoneers Ground_302
+  - first:
+      213: 5004073270157889371
+    second: Dungeoneers Ground_303
+  - first:
+      213: 3957042846207847943
+    second: Dungeoneers Ground_304
+  - first:
+      213: 8283802947840739629
+    second: Dungeoneers Ground_305
+  - first:
+      213: 3849893552773717796
+    second: Dungeoneers Ground_306
+  - first:
+      213: -2586832045480154625
+    second: Dungeoneers Ground_307
+  - first:
+      213: -3375301254627426956
+    second: Dungeoneers Ground_308
+  - first:
+      213: -625362280176498672
+    second: Dungeoneers Ground_309
+  - first:
+      213: 7178331366154827612
+    second: Dungeoneers Ground_310
+  - first:
+      213: -6094541558457952815
+    second: Dungeoneers Ground_311
+  - first:
+      213: -8418143012354155133
+    second: Dungeoneers Ground_312
+  - first:
+      213: -8711391050748165123
+    second: Dungeoneers Ground_313
+  - first:
+      213: 2228977625560776789
+    second: Dungeoneers Ground_314
+  - first:
+      213: -8887675790446024032
+    second: Dungeoneers Ground_315
+  - first:
+      213: 2680447547306356178
+    second: Dungeoneers Ground_316
+  - first:
+      213: 3501384666793472816
+    second: Dungeoneers Ground_317
+  - first:
+      213: 672176007297922891
+    second: Dungeoneers Ground_318
+  - first:
+      213: 2776725411378556289
+    second: Dungeoneers Ground_319
+  - first:
+      213: -965520600667419413
+    second: Dungeoneers Ground_320
+  - first:
+      213: 8936215520156446422
+    second: Dungeoneers Ground_321
+  - first:
+      213: 1651314842248564814
+    second: Dungeoneers Ground_322
+  - first:
+      213: -7833177047600053141
+    second: Dungeoneers Ground_323
+  - first:
+      213: 3030016723670745424
+    second: Dungeoneers Ground_324
+  - first:
+      213: -8554190893959384767
+    second: Dungeoneers Ground_325
+  - first:
+      213: 4485862156419326089
+    second: Dungeoneers Ground_326
+  - first:
+      213: -6639673707413379553
+    second: Dungeoneers Ground_327
+  - first:
+      213: 5474954750220859842
+    second: Dungeoneers Ground_328
+  - first:
+      213: -15017079848951126
+    second: Dungeoneers Ground_329
+  - first:
+      213: -6053443692385654977
+    second: Dungeoneers Ground_330
+  - first:
+      213: -6452496162694542077
+    second: Dungeoneers Ground_331
+  - first:
+      213: 5417517954545797471
+    second: Dungeoneers Ground_332
+  - first:
+      213: -1072714724913537462
+    second: Dungeoneers Ground_333
+  - first:
+      213: -7339105769308250701
+    second: Dungeoneers Ground_334
+  - first:
+      213: 5211819448091168822
+    second: Dungeoneers Ground_335
+  - first:
+      213: -3248556114457478126
+    second: Dungeoneers Ground_336
+  - first:
+      213: 5956239352902198361
+    second: Dungeoneers Ground_337
+  - first:
+      213: 6664422689816917219
+    second: Dungeoneers Ground_338
+  - first:
+      213: -2587975337375012392
+    second: Dungeoneers Ground_339
+  - first:
+      213: 7808503968700972370
+    second: Dungeoneers Ground_340
+  - first:
+      213: -1641824308601394447
+    second: Dungeoneers Ground_341
+  - first:
+      213: -2974630455860072185
+    second: Dungeoneers Ground_342
+  - first:
+      213: 7762438875116051087
+    second: Dungeoneers Ground_343
+  - first:
+      213: 8484615553192500724
+    second: Dungeoneers Ground_344
+  - first:
+      213: 3390388068532133452
+    second: Dungeoneers Ground_345
+  - first:
+      213: 8002442539937976118
+    second: Dungeoneers Ground_346
+  - first:
+      213: -6377027858163539498
+    second: Dungeoneers Ground_347
+  - first:
+      213: -654371171537300328
+    second: Dungeoneers Ground_348
+  - first:
+      213: -1767940895752232646
+    second: Dungeoneers Ground_349
+  - first:
+      213: -2315022182400717074
+    second: Dungeoneers Ground_350
+  - first:
+      213: -1135067817866000198
+    second: Dungeoneers Ground_351
+  - first:
+      213: 6228156821960719017
+    second: Dungeoneers Ground_352
+  - first:
+      213: -2356086365124764056
+    second: Dungeoneers Ground_353
+  - first:
+      213: -6177508482478393611
+    second: Dungeoneers Ground_354
+  - first:
+      213: 8437873668234158315
+    second: Dungeoneers Ground_355
+  - first:
+      213: 1652998558230373804
+    second: Dungeoneers Ground_356
+  - first:
+      213: -6329355511370175325
+    second: Dungeoneers Ground_357
+  - first:
+      213: 5294254470203826094
+    second: Dungeoneers Ground_358
+  - first:
+      213: -4013972606368935999
+    second: Dungeoneers Ground_359
+  - first:
+      213: 5196553477376995036
+    second: Dungeoneers Ground_360
+  - first:
+      213: -6476064222264036294
+    second: Dungeoneers Ground_361
+  - first:
+      213: -5404575630762765821
+    second: Dungeoneers Ground_362
+  - first:
+      213: -6603853890377244539
+    second: Dungeoneers Ground_363
+  - first:
+      213: -5644466524620316048
+    second: Dungeoneers Ground_364
+  - first:
+      213: 8844257285090395813
+    second: Dungeoneers Ground_365
+  - first:
+      213: -5644892534326887426
+    second: Dungeoneers Ground_366
+  - first:
+      213: -3262878351302687976
+    second: Dungeoneers Ground_367
+  - first:
+      213: 6468222979080863900
+    second: Dungeoneers Ground_368
+  - first:
+      213: 38860261948753010
+    second: Dungeoneers Ground_369
+  - first:
+      213: -4613807018321513566
+    second: Dungeoneers Ground_370
+  - first:
+      213: 1350645998502712203
+    second: Dungeoneers Ground_371
+  - first:
+      213: 9082862626316779502
+    second: Dungeoneers Ground_372
+  - first:
+      213: 5183574200811915537
+    second: Dungeoneers Ground_373
+  - first:
+      213: 1863330047873989563
+    second: Dungeoneers Ground_374
+  - first:
+      213: 3085194317493049953
+    second: Dungeoneers Ground_375
+  - first:
+      213: 6517171872905851541
+    second: Dungeoneers Ground_376
+  - first:
+      213: 265429068846067354
+    second: Dungeoneers Ground_377
+  - first:
+      213: -3152812192108908394
+    second: Dungeoneers Ground_378
+  - first:
+      213: 3843370131207868217
+    second: Dungeoneers Ground_379
+  - first:
+      213: -562501383612754301
+    second: Dungeoneers Ground_380
+  - first:
+      213: 1014830650188205824
+    second: Dungeoneers Ground_381
+  - first:
+      213: 4255308142599082920
+    second: Dungeoneers Ground_382
+  - first:
+      213: -5827184038845554576
+    second: Dungeoneers Ground_383
+  - first:
+      213: 1577229048056743112
+    second: Dungeoneers Ground_384
+  - first:
+      213: -8665624670367323411
+    second: Dungeoneers Ground_385
+  - first:
+      213: 7679890997353265422
+    second: Dungeoneers Ground_386
+  - first:
+      213: -4803690489684150812
+    second: Dungeoneers Ground_387
+  - first:
+      213: -225483130623156201
+    second: Dungeoneers Ground_388
+  - first:
+      213: 5065965650059142476
+    second: Dungeoneers Ground_389
+  - first:
+      213: -8552918696995708577
+    second: Dungeoneers Ground_390
+  - first:
+      213: 3752464781943341306
+    second: Dungeoneers Ground_391
+  - first:
+      213: -3171586264337980757
+    second: Dungeoneers Ground_392
+  - first:
+      213: -5884801999619292881
+    second: Dungeoneers Ground_393
+  - first:
+      213: -8463412461412252629
+    second: Dungeoneers Ground_394
+  - first:
+      213: -2963532636872924940
+    second: Dungeoneers Ground_395
+  - first:
+      213: -6638957018315436401
+    second: Dungeoneers Ground_396
+  - first:
+      213: 7202112622674971615
+    second: Dungeoneers Ground_397
+  - first:
+      213: 8551996038761954842
+    second: Dungeoneers Ground_398
+  - first:
+      213: 2458651327445558219
+    second: Dungeoneers Ground_399
+  - first:
+      213: -4412465761223860304
+    second: Dungeoneers Ground_400
+  - first:
+      213: 1862125986771646705
+    second: Dungeoneers Ground_401
+  - first:
+      213: 1382562523911969193
+    second: Dungeoneers Ground_402
+  - first:
+      213: -5195137590522902380
+    second: Dungeoneers Ground_403
+  - first:
+      213: 2359081955544795113
+    second: Dungeoneers Ground_404
+  - first:
+      213: 6375162238110706086
+    second: Dungeoneers Ground_405
+  - first:
+      213: 3357372052959125357
+    second: Dungeoneers Ground_406
+  - first:
+      213: 2589457936902626851
+    second: Dungeoneers Ground_407
+  - first:
+      213: -8223273451477719963
+    second: Dungeoneers Ground_408
+  - first:
+      213: -7029376676239553714
+    second: Dungeoneers Ground_409
+  - first:
+      213: -2930262026066173375
+    second: Dungeoneers Ground_410
+  - first:
+      213: -8765582427649441991
+    second: Dungeoneers Ground_411
+  - first:
+      213: -2197027704531666452
+    second: Dungeoneers Ground_412
+  - first:
+      213: 5740730089504297622
+    second: Dungeoneers Ground_413
+  - first:
+      213: 5203925348682371892
+    second: Dungeoneers Ground_414
+  - first:
+      213: -1959042306387364677
+    second: Dungeoneers Ground_415
+  - first:
+      213: 1881295586132407609
+    second: Dungeoneers Ground_416
+  - first:
+      213: 879065514806930303
+    second: Dungeoneers Ground_417
+  - first:
+      213: 2316015921282617761
+    second: Dungeoneers Ground_418
+  - first:
+      213: 1018751007704507985
+    second: Dungeoneers Ground_419
+  - first:
+      213: -7816019110040798986
+    second: Dungeoneers Ground_420
+  - first:
+      213: 3746898522309126933
+    second: Dungeoneers Ground_421
+  - first:
+      213: -6577020735851892517
+    second: Dungeoneers Ground_422
+  - first:
+      213: -2832269947743098299
+    second: Dungeoneers Ground_423
+  - first:
+      213: -573135646498394356
+    second: Dungeoneers Ground_424
+  - first:
+      213: -3055077215560995527
+    second: Dungeoneers Ground_425
+  - first:
+      213: 7112946022798657026
+    second: Dungeoneers Ground_426
+  - first:
+      213: -7574999860067859011
+    second: Dungeoneers Ground_427
+  - first:
+      213: -4623361885305391841
+    second: Dungeoneers Ground_428
+  - first:
+      213: 8231194078479504080
+    second: Dungeoneers Ground_429
+  - first:
+      213: 8987858132490599071
+    second: Dungeoneers Ground_430
+  - first:
+      213: -2175534902334527921
+    second: Dungeoneers Ground_431
+  - first:
+      213: 3086247352046463691
+    second: Dungeoneers Stone Marks
+  - first:
+      213: 6091445811187476771
+    second: Dungeoneers Stone Marks Small
+  - first:
+      213: -8945074000375155664
+    second: Dungeoneers Tree Leaves
+  - first:
+      213: -5535556580008651309
+    second: Dungeoneers Ladder
+  - first:
+      213: 3864807715078284740
+    second: Dungeoneers Stone Brick Window 1
+  - first:
+      213: -2763731870194785981
+    second: Dungeoneers Stone Brick Window 2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeoneers Clean Brick Top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5c20191c282ec0800000000000000
+      internalID: -3591572216670822957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Light Stone Top
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664b0ed5c3a05ed0800000000000000
+      internalID: -2427260128923531675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Dark Stone Top
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227b5a7fce2075d0800000000000000
+      internalID: -3066899877593386454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Clean Brick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fc353fe36912e0800000000000000
+      internalID: -2154581067678551380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Clean Brick Bridge
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceda621ab35ca8e0800000000000000
+      internalID: -1680876502278021426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Light Stone
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb457d251786d280800000000000000
+      internalID: -9018872678736114709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Dark Stone
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d56e6b0d3231f0800000000000000
+      internalID: -1066723042427284823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Planks Bridge
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20af4e5539dd634c0800000000000000
+      internalID: -4308012368662300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Wood Down
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68bcb42a0cb87390800000000000000
+      internalID: -7820294001176823697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Dirt Top
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292db2456cced6b0800000000000000
+      internalID: -5269549778693445329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Grass
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368a4057c1ce89a0800000000000000
+      internalID: -6228828172817103297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Planks
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795c4c92ed04fe50800000000000000
+      internalID: 6842109000818645366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Wood Up
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab407c3735af5e90800000000000000
+      internalID: -7034722436273648725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Dirt
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6cd415c669db5f0800000000000000
+      internalID: -739269371854207320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Color Scheme
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c4e293a51bd470800000000000000
+      internalID: 8420347720587592284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Ice Top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2ab61f872d5d00800000000000000
+      internalID: 962969390842260240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Hay
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c5c9cea50f6410800000000000000
+      internalID: 1472401851441070087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Ice
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccd94dc0663b780800000000000000
+      internalID: -8668472652465320837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Column Top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020e00d422f3e5d0800000000000000
+      internalID: -3034315483994258937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moss Top
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7c20780dfc0cf0800000000000000
+      internalID: -284574463747654286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moss Small
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66fb62bbde47ae00800000000000000
+      internalID: 1055899343139894891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Column Mid
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4368352ef6fbf530800000000000000
+      internalID: 3889974274571133774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moss
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb54305c317fa4e0800000000000000
+      internalID: -1968230008280032332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Blood Split
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37f5507df4c7ca0800000000000000
+      internalID: -6017847217147120695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Column Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08d1af3dc33e570800000000000000
+      internalID: 8494700203282890932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Ground_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca28b37d9d84da20800000000000000
+      internalID: 3086247352046463691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Marks Small
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ee5001b9298450800000000000000
+      internalID: 6091445811187476771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Tree Leaves
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347e06f696bcd380800000000000000
+      internalID: -8945074000375155664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Ladder
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5128e7e90cd23b0800000000000000
+      internalID: -5535556580008651309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Brick Window 1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c52e66e32e82a530800000000000000
+      internalID: 3864807715078284740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Brick Window 2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412d96c18045a9d0800000000000000
+      internalID: -2763731870194785981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Brick Window 3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94a3f96ff6dcf300800000000000000
+      internalID: 287340868727448734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Brick Window 4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3174cd5051e598e70800000000000000
+      internalID: 9117922364973926163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Brick Window 5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5093009fc70ac890800000000000000
+      internalID: -7437123246593175457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Stone Brick Window 6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf478dda8f60efb0800000000000000
+      internalID: -4620570575469326415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Tree Leaves 2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ace00b01aecaa50800000000000000
+      internalID: 6533854516801882671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Sky_3S
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00010205ed62e820800000000000000
+      internalID: 2946037936602284044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Sky_2S
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5338d1c61b9120800000000000000
+      internalID: 2421554246453517313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Sky_1S
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ff619393951290800000000000000
+      internalID: -7920262107651640076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moon_UL
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87554db1c0316c0800000000000000
+      internalID: -4173979115976296255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moon_UR
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893df700da67ef70800000000000000
+      internalID: 9216452604156787087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moon_DL
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206990b0949e9ddd0800000000000000
+      internalID: -2460679221454203390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Moon_DR
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d883f8bf562c00800000000000000
+      internalID: 875492425534591665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54433a013cc8ec6c0800000000000000
+      internalID: -4121201839571782587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c05304347f25c470800000000000000
+      internalID: 8414183654946984128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb5474f9f243b710800000000000000
+      internalID: 1707782325019106239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509ddaf308d05110800000000000000
+      internalID: 1247734608386953309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4064978d39f470800000000000000
+      internalID: 8428835830119813088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09218f84b8b8170800000000000000
+      internalID: 8181786293564510386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7edd3da93e834640800000000000000
+      internalID: 5063046784465362559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9d4bb750083c60800000000000000
+      internalID: 7797983131596593833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Big9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164521bae0e4e2fc0800000000000000
+      internalID: -3517788434023164831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Sky
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69810e523443f43d0800000000000000
+      internalID: -3220297745543718762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Med1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e34903ec6c728c0800000000000000
+      internalID: -4024029153151664501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Med2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3aad11c7679e450800000000000000
+      internalID: 6118551844007093203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Med3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d382be1b42d7afb50800000000000000
+      internalID: 6627747398186379325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Small1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448de1b7114532930800000000000000
+      internalID: 4117226918403561540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeoneers Cloud_Small2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aca59bd727b4af0800000000000000
+      internalID: -411109056668055009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a08cb7075e8579347bd62e5dd6df6c5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

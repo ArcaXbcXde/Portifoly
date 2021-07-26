@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skybox_MAT
+  m_Shader: {fileID: -6465566751694194690, guid: 6fec7d8188409ad49a46f12a0732102a,
+    type: 3}
+  m_ShaderKeywords: _METALLIC_SETUP _SUNDISK_HIGH_QUALITY
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Day_Speed: 0.1
+    - Moon_Size: 1.22
+    - Moon_Smoothness: 0
+    - Stars_Density: 4
+    - Stars_Size: 240
+    - Sun_Fresnel_Power: 1
+    - Sun_Size: 0.5
+    - Sun_Smoothness: 1
+    - Time: 1
+    m_Colors:
+    - Clouds_Color: {r: 0.2880918, g: 0.6239097, b: 0.735849, a: 0}
+    - Clouds_Size: {r: 0.5, g: 1.5, b: 0, a: 0}
+    - Clouds_Speed: {r: 0.4, g: 0.1, b: 0, a: 0}
+    - Day_Color: {r: 0.6627451, g: 0.9357788, b: 0.98039216, a: 1}
+    - Moon_Color: {r: 0.8160377, g: 0.88502365, b: 1, a: 1}
+    - Night_Color: {r: 0.18187074, g: 0.35400778, b: 0.6320754, a: 1}
+    - Stars_Speed: {r: 0.1, g: 0.02, b: 0, a: 0}
+    - Sun_Color: {r: 1, g: 0.98039216, b: 0.26886785, a: 1}
+    - Sun_Direction: {r: 0, g: 0, b: 0, a: 0}
+    - Twilight_Color: {r: 0.8113208, g: 0.6186881, b: 0.32529372, a: 1}
